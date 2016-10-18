@@ -11,4 +11,6 @@ require "html/pipeline/trix_video"
 # Pry.start
 
 require "irb"
+require "awesome_print"
+
 IRB.start
